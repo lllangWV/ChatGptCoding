@@ -1,1 +1,1 @@
-This example is Debugging And Code Explanation with ChatGPT
+This example using ChatGPT to debug, explain algorithms, optimize, document, and translate code to another language.

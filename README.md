@@ -14,7 +14,7 @@ Artificial Intelligence is revolutionizing the field of software development. AI
 
 In this repository, you'll find Jupyter notebooks and code samples that demonstrate how ChatGPT can assist with different coding tasks. Here are a few highlights:
 
-- **Example 1**: Using ChatGPT to debug, explain algorithms, optimize, document, and translate code to another language
+- **Example 1**: Using ChatGPT to debug, explain algorithms, optimize, document, and translate code to another language.
 - **Example 2**: Using ChatGPT to scrape a webpage for information and the analysis of that data. (Web Scaping and data analysis)
 - **Example 3**: Using ChatGPT to generate code based on a given specification. (A Drunken Walk and A Double Pendulum) *If extra time
 
