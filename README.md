@@ -35,3 +35,8 @@ However, for those exploring different needs or constraints, several other Langu
 - **Claude**: Another AI model that offers a unique approach to language understanding and generation, with strengths in coding and natural language processing. [Anthropic](https://www.anthropic.com/)
 - **ChatGPT-3.5**: A predecessor to ChatGPT-4, offering robust capabilities with the advantage of being freely available for certain usage limits. [OpenAI ChatGPT](https://openai.com/chatgpt)
 
+### Recent (Last week) Claude 3 benchmarks
+
+> Note : **Claude 3 Sonnet**, **Gemini 1.0 Pro**, and **GPT-3.5** are free.
+
+![Image Description](images/benchmarks.PNG)
