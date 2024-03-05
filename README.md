@@ -31,7 +31,7 @@ While this webinar focuses on leveraging ChatGPT, specifically ChatGPT-4, for co
 
 However, for those exploring different needs or constraints, several other Language Models offer specialized features or free access, including:
 
-- **Gemeni**: Known for its tailored optimizations in specific coding scenarios.
-- **Claude**: Another AI model that offers a unique approach to language understanding and generation, with strengths in coding and natural language processing.
-- **ChatGPT-3.5**: A predecessor to ChatGPT-4, offering robust capabilities with the advantage of being freely available for certain usage limits.
+- **Gemeni**: Known for its tailored optimizations in specific coding scenarios. [Gemini](https://gemini.google.com/)
+- **Claude**: Another AI model that offers a unique approach to language understanding and generation, with strengths in coding and natural language processing. [Anthropic](https://www.anthropic.com/)
+- **ChatGPT-3.5**: A predecessor to ChatGPT-4, offering robust capabilities with the advantage of being freely available for certain usage limits. [OpenAI ChatGPT](https://openai.com/chatgpt)
 
