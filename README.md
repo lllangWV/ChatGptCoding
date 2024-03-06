@@ -4,7 +4,7 @@ Welcome to the repository for the "CodingWithChatGPT"! This repository serves as
 
 ## What is ChatGPT?
 
-ChatGPT is a state-of-the-art language processing AI developed by OpenAI. It's based on the GPT (Generative Pretrained Transformer) architecture, which allows it to generate human-like text by predicting subsequent words in a sequence. ChatGPT has been trained on a diverse dataset, enabling it to assist with a wide range of tasks, including natural language understanding, text generation, and even coding.
+ChatGPT is a state-of-the-art Large Language Model (LLM) developed by OpenAI. It's based on the Generative Pretrained Transformer (GPT) architecture, which allows it to generate human-like text by predicting subsequent words in a sequence. ChatGPT has been trained on a diverse dataset, enabling it to assist with a wide range of tasks, including natural language understanding, text generation, and even coding.
 
 ## The Role of AI in Coding
 
